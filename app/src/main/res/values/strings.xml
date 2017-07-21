@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">MeReader</string>
+    <string name="app_name_with_index">PdfRendererBasic (%1$d/%2$d)</string>
+    <string name="info">Info</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="btn_search">Search</string>
+
+    <string name="text_file_info">%1$s : %2$s</string>
+    <string name="text_touch_info">最后一次点击的位置信息：\n (%1$d , %2$d)</string>
+    <string name="text_back">Back</string>
+
+    <string name="intro_message">
+        <![CDATA[
+
+
+            This sample demonstrates how to use PdfRenderer to display PDF documents on the screen.
+
+
+        ]]>
+    </string>
 </resources>
